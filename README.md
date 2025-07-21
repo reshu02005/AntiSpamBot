@@ -9,7 +9,7 @@ The main objective is to develop a model that can classify emails as **spam** or
 
 ## Tools & Technologies Used  
 - **Programming Language**: Python  
-- **Development Environment**: Jupyter Notebook (Anaconda)  
+- **Development Environment**: Google Colab
 - **Libraries Used**:  
   - NumPy  
   - Pandas  
