@@ -2,7 +2,7 @@
 # 📧 Spam Email Detection using Machine Learning  
 
 # Overview  
-This project is a "Machine Learning-based Spam Email Classifier" that predicts whether an email is spam or not using the "Naïve Bayes algorithm". It is implemented in "Python" using **Jupyter Notebook** and various ML libraries.  
+This project is a "Machine Learning-based Spam Email Classifier" that predicts whether an email is spam or not using the "Naïve Bayes algorithm". It is implemented in "Python" using **Google Colab** and various ML libraries.  
 
 # Goal of the Project  
 The main objective is to develop a model that can classify emails as **spam** or **not spam** with high accuracy. The dataset is sourced from "Kaggle", and the Naïve Bayes classifier is used for training and prediction.  
